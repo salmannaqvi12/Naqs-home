@@ -30,19 +30,19 @@ export default function Home() {
           <img src="/avatar.gif" className="h-24 w-24 " />
         </div>
         <div className="self-center">
-          <h1 className="text-xl">Makara Sok</h1>
+          <h1 className="text-xl">Salman Naqvi</h1>
           <p className="mt-1 text-gray-500 text-sm">
             Technical Co-Founder, Software Architect, Product Manager, Ops
             Engineer, Full Stack Developer, Principal Software Engineer in
-            Montreal, Canada
+            Lahore, Pakistan
           </p>
         </div>
       </div>
       <Section title="About">
         <Text>
-          Hi 👋🏻 I'm Mak. People and companies usually hire me when they have a
+          Hi 👋🏻 I'm NAQS. People and companies usually hire me when they have a
           project that they need implemented fast and well. I have over{" "}
-          {currentYear - 2006} years of experience in tech and 3 succesful
+          {currentYear - 2015} years of experience in tech and 2 succesful
           startups under my belt. I'll basically build your idea and let the
           market validate it, and if it all goes well, I'll help you build your
           team. If you already have something, I can come in and help make your
@@ -54,7 +54,7 @@ export default function Home() {
       </Section>
 
       <Section title="This year's code contributions">
-        <GitHubCalendar username="maktouch" style={{ marginTop: "1.5rem" }} />
+        <GitHubCalendar username="salmannaqvi12" style={{ marginTop: "1.5rem" }} />
       </Section>
 
       <Section title="Latest Commercial Projects & Contracts">
@@ -216,7 +216,7 @@ export default function Home() {
       <Section title="Work Experience">
         <Timeline>
           <TimelineItem
-            href="https://maktouch.com"
+            href="https://salmannaqvi.co"
             logo="/maktouch.svg"
             title="Consultation Maktouch Inc."
             subtitle={`2022 - ${currentYear} @ Montreal, Canada`}
@@ -468,7 +468,7 @@ export default function Home() {
       <Section title="Contact">
         <Timeline>
           <Item
-            href="mailto:me@maktouch.com"
+            href="mailto:salman@beyondtechservices.com"
             logo={
               <svg
                 className="h-6 w-6 flex items-center justify-center text-gray-500"
@@ -485,10 +485,10 @@ export default function Home() {
                 />
               </svg>
             }
-            title="me@maktouch.com"
+            title="salman@beyondtechservices.com"
           />
           <Item
-            href="https://www.linkedin.com/in/makara-sok/"
+            href="https://www.linkedin.com/in/salmannaqs/"
             logo={
               <svg
                 className="h-6 w-6 flex items-center justify-center"
@@ -505,7 +505,7 @@ export default function Home() {
           />
 
           <Item
-            href="https://github.com/maktouch"
+            href="https://github.com/salmannaqvi12"
             logo={
               <svg
                 className="h-6 w-6 flex items-center justify-center"
@@ -524,7 +524,7 @@ export default function Home() {
           />
 
           <Item
-            href="https://twitter.com/maktouch"
+            href="https://twitter.com/syedsallu110"
             logo={
               <svg
                 className="h-6 w-6 flex items-center justify-center"
@@ -537,7 +537,7 @@ export default function Home() {
                 />
               </svg>
             }
-            title="maktouch"
+            title="Salman Naqvi"
           />
         </Timeline>
       </Section>
