@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <div className="pt-10 lg:px-52 md:px-32 sm:px-16 text-gray-900">
       <Head>
-        <title>My name is Mak</title>
+        <title>My name is Salman Naqvi</title>
       </Head>
       <div className="flex">
         <div className="mr-4 flex-shrink-0 self-center">
@@ -501,7 +501,7 @@ export default function Home() {
                 />
               </svg>
             }
-            title="makara-sok"
+            title="SalmanNaqs"
           />
 
           <Item
@@ -520,7 +520,7 @@ export default function Home() {
                 />
               </svg>
             }
-            title="maktouch"
+            title="SalmanNaqvi"
           />
 
           <Item
