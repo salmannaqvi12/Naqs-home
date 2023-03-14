@@ -27,7 +27,7 @@ export default function Home() {
       </Head>
       <div className="flex">
         <div className="mr-4 flex-shrink-0 self-center">
-          <img src="/avatar.gif" className="h-24 w-24 " />
+          <img src="/subject.png" className="h-24 w-24 " />
         </div>
         <div className="self-center">
           <h1 className="text-xl">Salman Naqvi</h1>
